@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//main
+class BrainBlobber
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("t");
+    }
+}
